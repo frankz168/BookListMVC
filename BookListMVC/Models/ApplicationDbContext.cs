@@ -14,5 +14,7 @@ namespace BookListMVC.Models
         }
 
         public DbSet<Book> Book { get; set; }
+
+        public DbSet<Users> Users { get; set; }
     }
 }

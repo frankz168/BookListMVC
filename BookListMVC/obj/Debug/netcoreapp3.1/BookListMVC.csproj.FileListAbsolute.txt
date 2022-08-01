@@ -372,3 +372,4 @@ D:\Franky S\Projects\Project ASP.NET Core\BookListMVC\BookListMVC\obj\Debug\netc
 D:\Franky S\Projects\Project ASP.NET Core\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\BookListMVC.dll
 D:\Franky S\Projects\Project ASP.NET Core\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\BookListMVC.pdb
 D:\Franky S\Projects\Project ASP.NET Core\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\BookListMVC.genruntimeconfig.cache
+D:\Franky S\Projects\Project ASP.NET Core\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
